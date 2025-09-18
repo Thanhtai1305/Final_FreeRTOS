@@ -27,7 +27,7 @@ This project demonstrates embedded firmware built on **FreeRTOS** for a microcon
 ## Author & Contact
 - **Author:** Thành Tài  
 - **GitHub:** [Thanhtai1305](https://github.com/Thanhtai1305)  
-- **Contact:** *(insert email or preferred contact method)*
+
 
 ---
 
